@@ -5,3 +5,7 @@ function a() {
 function b() {
  return 'b';
 }
+
+function c() {
+ // add a specific traitement
+}
